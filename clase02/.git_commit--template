@@ -1,0 +1,28 @@
+# * Estructura del commit *
+# ** Titulo **
+# Contexto : FEAT, FIX, DOCS, STYLE, REFACTOR, TEST, BUGFIX, HOTFIX, SECURITY
+# Debe ser una descripcion corta y descriptiva.
+# Ejemplo :
+
+# **Descripcion **
+# Debe ser una descripcion mas detalla del cambio realizado.
+
+# **Referencias **
+# Debe ser una lista de refencias a otros commits, issues,etc.
+
+# ---
+* Sobre el pedido *
+
+** Ticket JIRA :
+** Link al pedido :
+** Autor(Nombre y apellido) :
+ ** Fecha :
+ ** Version :
+
+ # ---
+ # ** Estado **
+ # Debe ser el estado del commit.
+
+ # ---
+ # ** Comentarios **
+ # Debe ser un comentario del commit
